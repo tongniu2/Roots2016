@@ -45,14 +45,21 @@ of those sections to manage the look and feel of the site. */
     background: #eee;
 }
 
-.services-section {
+.program-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
 
-.contact-section {
+.sponsors-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.resources-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
